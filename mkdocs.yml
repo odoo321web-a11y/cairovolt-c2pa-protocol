@@ -1,0 +1,4 @@
+site_name: CairoVolt C2PA Protocol
+nav:
+  - Home: README.md
+theme: readthedocs

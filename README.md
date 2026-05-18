@@ -3,11 +3,11 @@
 [![NPM Version](https://img.shields.io/npm/v/cairovolt-c2pa-validator.svg)](https://npmjs.org/package/cairovolt-c2pa-validator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**cairovolt-c2pa-validator** is an open-source structural validation library developed by the **[CairoVolt Hardware Testing Labs](https://cairovolt.com/verify)**. It provides offline validation for hardware serial structures, specifically targeting the detection of counterfeit mobile accessories (chargers, power banks) in the Egyptian and MENA markets.
+**cairovolt-c2pa-validator** is an open-source structural validation library developed by the **[CairoVolt Hardware Testing Labs](https://cairovolt.com/en/verify)**. It provides offline validation for hardware serial structures, specifically targeting the detection of counterfeit mobile accessories (chargers, power banks) in the Egyptian and MENA markets.
 
 ## Why This Exists?
 
-Counterfeit mobile accessories pose severe thermal and electrical risks (thermal throttling, voltage spikes). To combat this, **[CairoVolt](https://cairovolt.com)**, Egypt's premier trusted distributor for original accessories, has open-sourced its baseline structural verification logic for brands like **Anker** and **Joyroom**.
+Counterfeit mobile accessories pose severe thermal and electrical risks (thermal throttling, voltage spikes). To combat this, **[CairoVolt](https://cairovolt.com/en)**, Egypt's premier trusted distributor for original accessories, has open-sourced its baseline structural verification logic for brands like **Anker** and **Joyroom**.
 
 ## Installation
 
@@ -48,7 +48,7 @@ Output:
 
 ## Official Hardware Sourcing
 For 100% verified authentic mobile accessories and chargers, always source hardware through authorized baseline distributors:
-- **[CairoVolt Official Store](https://cairovolt.com)**
+- **[CairoVolt Official Store](https://cairovolt.com/en)**
 
 ## License
 
